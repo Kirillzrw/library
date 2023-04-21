@@ -1,0 +1,13 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	width: 800px;
+	margin: 0 auto 25px;
+	align-items: center;
+
+	> .userList {
+		border: 1px solid black;
+		padding: 10px 5px;
+		border-radius: 10px;
+	}
+}
